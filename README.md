@@ -29,5 +29,7 @@
 
 For additional questions please reach out to my email at: volosevichh@gmail.com.
 
-Here is a gif on how to work the application.
+## Here is a gif on how to work the application.
+
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/66918031/99887879-52c47f00-2c05-11eb-8083-93462ccbc561.gif)
